@@ -15,5 +15,6 @@ Technologies Used
     Kotlin
     Jetpack Compose
     Coroutines
+    Dagger Hilt
     Google Ml kit
     MVVM architecture pattern
