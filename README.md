@@ -6,14 +6,14 @@ A Kotlin-based Android application that allows users to register their face data
 Features
 
     Face registration and storage
-    Simple camera preview UI
+    camera preview UI
     Face data retrieval and management
-    Firebase-based authentication and database storage
+    database storage
 
 Technologies Used
 
     Kotlin
     Jetpack Compose
-    Firebase Firestore
-    Firebase Authentication
+    Coroutines
+    Google Ml kit
     MVVM architecture pattern
